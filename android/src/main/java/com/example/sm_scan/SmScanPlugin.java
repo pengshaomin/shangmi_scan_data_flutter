@@ -32,7 +32,7 @@ public class SmScanPlugin implements FlutterPlugin, MethodCallHandler {
     private Context applicationContext;
 
     private static final String ACTION_DATA_CODE_RECEIVED =
-            "com.sunmi.scanner.ACTION_DATA_CODE_RECEIVED";
+            "andorid.intent.ACTION_DECOD_DATA";
     private static final String DATA = "data";
     private static final String SOURCE = "source_byte";
 
